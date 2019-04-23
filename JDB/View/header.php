@@ -21,6 +21,8 @@
    <li class='active'><a href='#'>TABLAS</a></li>
    <li><a href='#'>EDITAR TABLAS</a></li>
    <li><a href='#'>LOGIN</a></li>
+	   <li><a href='#'>LOGIN2</a></li>
+
 </ul>
 </div>
     <div class="container">
